@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Web development and QA testing**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **kavindyadilmi00@gmail.com**
 
