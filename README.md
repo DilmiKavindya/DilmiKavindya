@@ -29,20 +29,13 @@
 
 ---
 
-<br>
+<br> 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/Dilmi-Kavindya" target="_blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="dilmi" height="50" width="50" />
-  </a>
-  <a href="https://instagram.com/dilmi_k01" target="_blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="dilmi" height="50" width="50"/>
-  </a>
-<a href="https://www.facebook.com/profile.php?id=61550489022935&mibextid=ZbWKwL" target="_blank">
-  <img align="center" src="https://your-own-path/facebook-blue.png" alt="Facebook" height="50" width="50"/>
-</a>
-
+<a href="https://www.linkedin.com/in/Dilmi-Kavindya" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg?raw=true" alt="dilmi" height="50" width="50" /></a>
+<a href="https://instagram.com/dilmi_k01" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="dilmi" height="50" width="50"/></a>
 </p>
+
 <br>
 
 
