@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Dilmi Kavindya</h1>
 <h3 align="center">Passionate software developer</h3>
 
-<!-- 🔹 AI Colorful Animated Video/GIF -->
+<!-- 🔹 Animated Typing Line -->
 <p align="center">
-  <img src="AI-animated.gif" alt="AI Animation" width="500"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
