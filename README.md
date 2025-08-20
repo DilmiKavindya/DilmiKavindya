@@ -7,7 +7,7 @@
 
 <!-- 🔹 Animated Typing Line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Developer;Java+%26+Angular+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
   
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Software development**
 
 - 📫 How to reach me **kavindyadilmi00@gmail.com**
 
