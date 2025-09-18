@@ -25,7 +25,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fdigital-computer&psig=AOvVaw12APK6HTKC4BqxHNvCU9if&ust=1758265875044000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDhvvvg4Y8DFQAAAAAdAAAAABAE">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 </td>
 </tr>
