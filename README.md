@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dilmi Kavindya</h1>
-<h3 align="center">Passionate software developer</h3>
+<h3 align="center">Passionate Software Developer</h3>
 
 <!-- 🔹 Animated Typing Line -->
 <p align="center">
